@@ -70,6 +70,7 @@ ATM-Pro/
 <p align="center">
   <img src="src/images/ATM_page.PNG" alt="ATM Page">
 </p>
+
 *The ATM page allows users to perform transactions such as withdrawals and balance inquiries.*
 
 These images showcase the main interface of the application.
