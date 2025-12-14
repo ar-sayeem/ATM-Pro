@@ -62,16 +62,13 @@ ATM-Pro/
 
 ## Screenshots
 
-### Application Logo
-![Bank Logo](src/images/banklogo.png)
+### Home Page
+![Home Page](src/images/home_page.PNG)
 
-### ATM Interface
-![ATM Interface](src/images/titleAtm.png)
+### ATM Page
+![ATM Page](src/images/ATM_page.PNG)
 
-### User Options
-![User Options](src/images/use%20ATM.png)
-
-These images provide a glimpse of the application's branding and user interface.
+These images showcase the main interface of the application.
 
 ## License
 This project is licensed under the MIT License.
