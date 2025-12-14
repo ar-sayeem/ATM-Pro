@@ -64,11 +64,12 @@ ATM-Pro/
 
 ### Home Page
 ![Home Page](src/images/home_page.PNG)
+*The home page provides an intuitive interface for users to navigate through the BANK system.*
 
 ### ATM Page
-![ATM Page](src/images/ATM_page.PNG)
+<p align="center">
+  <img src="src/images/ATM_page.PNG" alt="ATM Page">
+</p>
+*The ATM page allows users to perform transactions such as withdrawals and balance inquiries.*
 
 These images showcase the main interface of the application.
-
-## License
-This project is licensed under the MIT License.
