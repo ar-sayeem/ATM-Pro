@@ -60,5 +60,18 @@ ATM-Pro/
 ├── manifest.mf           # Manifest file
 ```
 
+## Screenshots
+
+### Application Logo
+![Bank Logo](src/images/banklogo.png)
+
+### ATM Interface
+![ATM Interface](src/images/titleAtm.png)
+
+### User Options
+![User Options](src/images/use%20ATM.png)
+
+These images provide a glimpse of the application's branding and user interface.
+
 ## License
 This project is licensed under the MIT License.
