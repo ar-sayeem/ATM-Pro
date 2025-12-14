@@ -1,0 +1,30 @@
+# Ignore build files
+/build/
+
+# Ignore NetBeans project files
+/nbproject/private/
+/nbproject/Makefile
+/nbproject/configs/
+
+# Ignore compiled classes
+*.class
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore IDE-specific files
+*.iml
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore other unnecessary files
+*.bak
+*.swp
+*.swo
+
+# Ignore images in build directory
+build/images/
