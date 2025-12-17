@@ -20,7 +20,6 @@ public class Bank extends javax.swing.JFrame {
         readFile();
     }
 
-    @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
@@ -275,7 +274,6 @@ public class Bank extends javax.swing.JFrame {
 
         } else if (checkCNIC(cnic.getText())) {
 
-            Random rand = new Random();
             int pin = (int) Math.floor(Math.random() * (9999 - 1000 + 1) + 1000);
             int c1, c2, c3, c4;
             do {
